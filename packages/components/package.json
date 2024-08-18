@@ -88,7 +88,7 @@
         "object-hash": "^3.0.0",
         "openai": "^4.16.1",
         "pdf-parse": "^1.1.1",
-        "pdfjs-dist": "^3.7.107",
+        "pdfjs-dist": "^4.2.67",
         "pg": "^8.11.2",
         "playwright": "^1.35.0",
         "puppeteer": "^20.7.1",
